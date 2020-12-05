@@ -1,2 +1,2 @@
 # Relation of Visual Function to Retinal Nerve Fiber Layer Thickness in Multiple Sclerosis
-Relation of Visual Function to Retinal Nerve Fiber Layer Thickness in Multiple Sclerosis
+Да се испита врската на визуелната функција со дебелината на слојот на нервните влакна на мрежницатa (RNFL) како структурен биомаркер за аксонална загуба кај мултиплекс склероза (МС) и да се спореди дебелината на RNFL меѓу очите на МС со историја на акутен оптички невритис, MS без историја на оптички невритис, и контролни очи без болести.
